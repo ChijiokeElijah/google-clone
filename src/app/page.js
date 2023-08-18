@@ -15,7 +15,7 @@ export default function Home() {
         height="100"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png"
 
-        
+       alt='google' 
         />
         <HomeSearch/>
       </div>

@@ -40,7 +40,7 @@ const router = useRouter();
               <img src='spinner.svg' alt='loading...' className='h-6 text-center '/>
              ):
              (
-              "I Am Feeling Lucky"
+              "I'm Feeling Lucky"
              )} </button>
         </div>
         
